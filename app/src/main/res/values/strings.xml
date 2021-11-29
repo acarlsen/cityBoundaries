@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">City Boundaries</string>
+    <string name="cities">Cities</string>
+    <string name="city_boundary">City boundary</string>
+    <string name="back">Back</string>
+    <string name="no_cities">No cities found</string>
+    <string name="loading">Loading…</string>
+    <string name="home">Home</string>
+    <string name="error_load">Error loading cities</string>
+    <string name="distance_km">%1$s km</string>
+    <string name="distance">Distance</string>
+</resources>
